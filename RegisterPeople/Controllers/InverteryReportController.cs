@@ -7,7 +7,9 @@ using System.Threading.Tasks;
 
 namespace RegisterPeople.Controllers
 {
-
+    /// <summary>
+    /// salam
+    /// </summary>
     [Route("api/[controller]")]
     [ApiController]
     public class InventoryReportController : ControllerBase
