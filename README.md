@@ -1,2 +1,2 @@
 # WMS
-This is my test
+This is my project
